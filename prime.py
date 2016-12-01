@@ -1,3 +1,5 @@
+#Function to generate prime numbers from a given whole number
+#By hms91
 def gen_prime(number):
 
 	prime_nos = []
